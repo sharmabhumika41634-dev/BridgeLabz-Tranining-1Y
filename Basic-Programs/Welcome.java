@@ -1,5 +1,5 @@
 public class Welcome{
-  public stastic void main (String[] args){
-	System.out.println("Welcome to Bridgelabz!");
+  publice Static void main(String[]args){
+  System.out.println("Welcome to Bridgelab!");
   }
-} 
+  }
